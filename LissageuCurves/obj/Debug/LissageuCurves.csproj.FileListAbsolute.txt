@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.Properties.Resources.resources
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.Form1.resources
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\bin\Debug\LissageuCurves.exe.config
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\bin\Debug\LissageuCurves.exe
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\bin\Debug\LissageuCurves.pdb
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.exe
+C:\Users\User\source\repos\LissageuCurves\LissageuCurves\obj\Debug\LissageuCurves.pdb
